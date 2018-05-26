@@ -1,0 +1,34 @@
+﻿@model SampleMVC.ViewModel.CustomerFormViewModel
+@{
+    ViewBag.Title = "New";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>New Customer</h2>
+
+@using (Html.BeginForm("Create", "Customers"))
+{
+    <div>
+        @Html.LabelFor(m => m.Customer.Id)
+        @Html.TextBoxFor(m => m.Customer.Id, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.Name)
+        @Html.TextBoxFor(m => m.Customer.Name, new { @class = "form-control" })
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Customer.CustomerType)
+        @Html.DropDownListFor(m => m.Customer.CustomerType ,new SelectList(Model.CustomerTypes,"Id","Type"),"Select Customer Type",  new { @class = "form-control" })
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Customer.Abbreviation)
+        @Html.TextBoxFor(m => m.Customer.Abbreviation, new { @class = "form-control" })
+    </div>
+    <div class="checkbox">
+        <label>
+            @Html.CheckBoxFor(m => m.Customer.IsActive) Is Active
+        </label>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+}
+

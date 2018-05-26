@@ -1,0 +1,31 @@
+﻿@model SampleMVC.Models.Customer
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+@using (Html.BeginForm("Details", "Customers"))
+{
+    <div>
+        @Html.LabelFor(m => m.Id)
+        @Html.TextBoxFor(m => m.Id, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+    </div>
+    <div>
+        @Html.LabelFor(m => m.CustomerType)
+        @Html.TextBoxFor(m => m.CustomerType.Type, new { @class = "form-control" })
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Abbreviation)
+        @Html.TextBoxFor(m => m.Abbreviation, new { @class = "form-control" })
+    </div>
+    <div class="checkbox">
+        <label>
+            @Html.CheckBoxFor(m => m.IsActive) Is Active
+        </label>
+    </div>
+}

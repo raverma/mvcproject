@@ -1,0 +1,58 @@
+﻿@model SampleMVC.ViewModel.CustomerFormViewModel
+@{
+    /**/
+
+    /**/
+
+    ViewBag.Title = Model.Title;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.Title</h2>
+@using (Html.BeginForm("Save", "Customers"))
+{
+    <div>
+        @*@Html.LabelFor(m => m.Customer.Id)
+            @Html.TextBoxFor(m => m.Customer.Id, new { @class = "form-control" })*@
+        @Html.Hidden("Customer.Id", (Model.Customer != null) ? Model.Customer.Id : 0)
+        @*@Html.HiddenFor(m => m.Customer.Id)*@
+
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.Name)
+        @Html.TextBoxFor(m => m.Customer.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Customer.Name)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Customer.CustomerType)
+        @Html.DropDownListFor(m => m.Customer.CustomerTypeId, new SelectList(Model.CustomerTypes, "Id", "Type"), "Select Customer Type", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Customer.CustomerTypeId)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Customer.Abbreviation)
+        @Html.TextBoxFor(m => m.Customer.Abbreviation, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Customer.Abbreviation)
+    </div>
+    <br />
+    <div class="checkbox">
+        <label>
+            @Html.CheckBoxFor(m => m.Customer.IsActive) Is Active
+        </label>
+        @Html.ValidationMessageFor(m => m.Customer.IsActive)
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+    <button id="btnCancel" type="button" class="btn btn-primary">Cancel</button>
+    @Html.AntiForgeryToken()
+}
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+    <script>
+        $(document).ready(function() {
+            $("#btnCancel").on("click",function () {
+                window.location.replace("/samplemvc/customers");
+            });
+            });
+    </script>
+}
