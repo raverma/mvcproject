@@ -1,5 +1,4 @@
-﻿using DAL;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Text;
 using System.Data;
 using System.ComponentModel.DataAnnotations;

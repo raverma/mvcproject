@@ -1,0 +1,630 @@
+Build started 12/13/2018 12:37:05 AM.
+Search paths being used for $(MSBuildExtensionsPath32) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Trying to import C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.Default.props using extensions path C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Trying to import C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.props using extensions path C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild
+Property reassignment: $(MSBuildProjectExtensionsPath)="C:\Users\Rahul\Documents\GitHub\mvcproject\obj\" (previous value: "obj\") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Microsoft.Common.props (60,5)
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Trying to import C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\$(MSBuildToolsVersion)\Imports\Microsoft.Common.props\ImportBefore\* using extensions path C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Property reassignment: $(DefineCommonItemSchemas)="false" (previous value: "true") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets (12,5)
+Property reassignment: $(DefineCommonCapabilities)="false" (previous value: "true") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets (13,5)
+Property reassignment: $(DefineCommonReferenceSchemas)="false" (previous value: "true") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets (14,5)
+Property reassignment: $(MSBuildAllProjects)=";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets" (previous value: ";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets (20,5)
+Property reassignment: $(MSBuildAllProjects)=";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets" (previous value: ";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets (13,5)
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Property reassignment: $(MSBuildAllProjects)=";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props" (previous value: ";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props (29,5)
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Property reassignment: $(_DebugSymbolsProduced)="true" (previous value: "false") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets (148,5)
+Property reassignment: $(_DocumentationFileProduced)="false" (previous value: "true") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets (157,5)
+Property reassignment: $(ProcessorArchitecture)="x86" (previous value: "") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets (494,5)
+Property reassignment: $(DelaySign)="" (previous value: "false") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets (525,5)
+Property reassignment: $(MSBuildAllProjects)=";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets" (previous value: ";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets (536,5)
+Property reassignment: $(MSBuildAllProjects)=";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj.user" (previous value: ";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets (537,5)
+Property reassignment: $(_SGenGenerateSerializationAssembliesConfig)="Auto" (previous value: "") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets (3496,5)
+Property reassignment: $(_SGenGenerateSerializationAssembliesConfig)="Off" (previous value: "Auto") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets (3497,5)
+Property reassignment: $(PrepareForRunDependsOn)="
+      CopyFilesToOutputDirectory
+    ;RunCodeAnalysis" (previous value: "
+      CopyFilesToOutputDirectory
+    ") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (157,9)
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Property reassignment: $(MSBuildAllProjects)=";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.targets" (previous value: ";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj.user") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.targets (29,6)
+Property reassignment: $(ResolveReferencesDependsOn)="
+      
+      BeforeResolveReferences;
+      AssignProjectConfiguration;
+      ResolveProjectReferences;
+      FindInvalidProjectReferences;
+      ResolveNativeReferences;
+      ResolveAssemblyReferences;
+      GenerateBindingRedirects;
+      ResolveComReferences;
+      AfterResolveReferences
+    ;
+      ImplicitlyExpandDesignTimeFacades
+    " (previous value: "
+      BeforeResolveReferences;
+      AssignProjectConfiguration;
+      ResolveProjectReferences;
+      FindInvalidProjectReferences;
+      ResolveNativeReferences;
+      ResolveAssemblyReferences;
+      GenerateBindingRedirects;
+      ResolveComReferences;
+      AfterResolveReferences
+    ") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.targets (79,5)
+Property reassignment: $(PrepareResourceNamesDependsOn)="
+                    AssignWinFXEmbeddedResource;
+                    
+      AssignTargetPaths;
+      SplitResourcesByCulture;
+      CreateManifestResourceNames;
+      CreateCustomManifestResourceNames
+    
+      " (previous value: "
+      AssignTargetPaths;
+      SplitResourcesByCulture;
+      CreateManifestResourceNames;
+      CreateCustomManifestResourceNames
+    ") at C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets (97,7)
+Property reassignment: $(PrepareResourcesDependsOn)="
+                MarkupCompilePass1;
+                AfterMarkupCompilePass1;
+                MarkupCompilePass2ForMainAssembly;
+                FileClassification;
+                MainResourcesGeneration;
+                
+      PrepareResourceNames;
+      ResGen;
+      CompileLicxFiles
+    
+      " (previous value: "
+      PrepareResourceNames;
+      ResGen;
+      CompileLicxFiles
+    ") at C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets (108,7)
+Property reassignment: $(CompileDependsOn)="
+        
+      ResolveReferences;
+      ResolveKeySource;
+      SetWin32ManifestProperties;
+      FindReferenceAssembliesForReferences;
+      _GenerateCompileInputs;
+      BeforeCompile;
+      _TimeStampBeforeCompile;
+      _GenerateCompileDependencyCache;
+      CoreCompile;
+      _TimeStampAfterCompile;
+      AfterCompile;
+    ;
+        _AfterCompileWinFXInternal
+    " (previous value: "
+      ResolveReferences;
+      ResolveKeySource;
+      SetWin32ManifestProperties;
+      FindReferenceAssembliesForReferences;
+      _GenerateCompileInputs;
+      BeforeCompile;
+      _TimeStampBeforeCompile;
+      _GenerateCompileDependencyCache;
+      CoreCompile;
+      _TimeStampAfterCompile;
+      AfterCompile;
+    ") at C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets (184,5)
+Property reassignment: $(PublishBuildDependsOn)="
+            BuildOnlySettings;
+            PrepareForBuild;
+            ResolveReferences;
+            PrepareResources;
+            ResolveKeySource;
+            PrepareResourcesForSatelliteAssemblies;
+            GenerateSerializationAssemblies;
+            CreateSatelliteAssemblies;
+        " (previous value: "
+      BuildOnlySettings;
+      PrepareForBuild;
+      ResolveReferences;
+      PrepareResources;
+      ResolveKeySource;
+      GenerateSerializationAssemblies;
+      CreateSatelliteAssemblies;
+    ") at C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets (813,9)
+Property reassignment: $(BuildDependsOn)="
+      EntityDeploy;
+      
+      BeforeBuild;
+      CoreBuild;
+      AfterBuild
+    
+    " (previous value: "
+      BeforeBuild;
+      CoreBuild;
+      AfterBuild
+    ") at C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Data.Entity.targets (35,5)
+Property reassignment: $(CleanDependsOn)="
+      
+      BeforeClean;
+      UnmanagedUnregistration;
+      CoreClean;
+      CleanReferencedProjects;
+      CleanPublishFolder;
+      AfterClean
+    ;
+      EntityClean;
+    " (previous value: "
+      BeforeClean;
+      UnmanagedUnregistration;
+      CoreClean;
+      CleanReferencedProjects;
+      CleanPublishFolder;
+      AfterClean
+    ") at C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Data.Entity.targets (42,5)
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Property reassignment: $(PrepareResourcesDependsOn)="
+      XamlMarkupCompilePass1;
+      XamlMarkupCompilePass2;
+      
+                MarkupCompilePass1;
+                AfterMarkupCompilePass1;
+                MarkupCompilePass2ForMainAssembly;
+                FileClassification;
+                MainResourcesGeneration;
+                
+      PrepareResourceNames;
+      ResGen;
+      CompileLicxFiles
+    
+       
+    " (previous value: "
+                MarkupCompilePass1;
+                AfterMarkupCompilePass1;
+                MarkupCompilePass2ForMainAssembly;
+                FileClassification;
+                MainResourcesGeneration;
+                
+      PrepareResourceNames;
+      ResGen;
+      CompileLicxFiles
+    
+      ") at C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets (35,5)
+Property reassignment: $(MSBuildAllProjects)=";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Xaml.targets" (previous value: ";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.targets") at C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets (48,5)
+Property reassignment: $(PrepareResourcesDependsOn)="
+      ValidationExtension;
+      ExpressionBuildExtension;
+      
+      XamlMarkupCompilePass1;
+      XamlMarkupCompilePass2;
+      
+                MarkupCompilePass1;
+                AfterMarkupCompilePass1;
+                MarkupCompilePass2ForMainAssembly;
+                FileClassification;
+                MainResourcesGeneration;
+                
+      PrepareResourceNames;
+      ResGen;
+      CompileLicxFiles
+    
+       
+    
+    " (previous value: "
+      XamlMarkupCompilePass1;
+      XamlMarkupCompilePass2;
+      
+                MarkupCompilePass1;
+                AfterMarkupCompilePass1;
+                MarkupCompilePass2ForMainAssembly;
+                FileClassification;
+                MainResourcesGeneration;
+                
+      PrepareResourceNames;
+      ResGen;
+      CompileLicxFiles
+    
+       
+    ") at C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.WorkflowBuildExtensions.targets (16,5)
+Property reassignment: $(ResolveReferencesDependsOn)="
+      
+      
+      BeforeResolveReferences;
+      AssignProjectConfiguration;
+      ResolveProjectReferences;
+      FindInvalidProjectReferences;
+      ResolveNativeReferences;
+      ResolveAssemblyReferences;
+      GenerateBindingRedirects;
+      ResolveComReferences;
+      AfterResolveReferences
+    ;
+      ImplicitlyExpandDesignTimeFacades
+    ;
+      ResolveTestReferences
+    " (previous value: "
+      
+      BeforeResolveReferences;
+      AssignProjectConfiguration;
+      ResolveProjectReferences;
+      FindInvalidProjectReferences;
+      ResolveNativeReferences;
+      ResolveAssemblyReferences;
+      GenerateBindingRedirects;
+      ResolveComReferences;
+      AfterResolveReferences
+    ;
+      ImplicitlyExpandDesignTimeFacades
+    ") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\TeamTest\Microsoft.TeamTest.targets (4,5)
+Property reassignment: $(MSBuildAllProjects)=";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets" (previous value: ";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Xaml.targets") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets (45,5)
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Trying to import C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportAfter\* using extensions path C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Trying to import C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Sdks\Microsoft.Docker.Sdk\build\Microsoft.Docker.targets using extensions path C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild
+Property reassignment: $(MSBuildAllProjects)=";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Microsoft.Common.targets\ImportAfter\Microsoft.NET.Build.Extensions.targets" (previous value: ";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Microsoft.Common.targets\ImportAfter\Microsoft.NET.Build.Extensions.targets (14,5)
+Property reassignment: $(MSBuildAllProjects)=";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Microsoft.Common.targets\ImportAfter\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.targets" (previous value: ";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Microsoft.Common.targets\ImportAfter\Microsoft.NET.Build.Extensions.targets") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.targets (15,5)
+Property reassignment: $(_TargetFrameworkVersionWithoutV)="4.5" (previous value: "v4.5") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.targets (18,5)
+Property reassignment: $(MSBuildAllProjects)=";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Microsoft.Common.targets\ImportAfter\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.NETFramework.targets" (previous value: ";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Microsoft.Common.targets\ImportAfter\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.targets") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.NETFramework.targets (15,5)
+Property reassignment: $(MSBuildAllProjects)=";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Microsoft.Common.targets\ImportAfter\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.NETFramework.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.ConflictResolution.targets" (previous value: ";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Microsoft.Common.targets\ImportAfter\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.NETFramework.targets") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.ConflictResolution.targets (15,5)
+Property reassignment: $(MSBuildAllProjects)=";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Microsoft.Common.targets\ImportAfter\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.NETFramework.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.ConflictResolution.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\NuGet\15.0\Microsoft.NuGet.targets" (previous value: ";C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.CSharp.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.CSharp.DesignTime.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets;C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Microsoft.Common.targets\ImportAfter\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.NETFramework.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.ConflictResolution.targets") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\NuGet\15.0\Microsoft.NuGet.targets (67,5)
+Property reassignment: $(ResolveAssemblyReferencesDependsOn)="
+      GetFrameworkPaths;
+      GetReferenceAssemblyPaths;
+      PrepareForBuild;
+      ResolveSDKReferences;
+      ExpandSDKReferences;
+    ;ResolveNuGetPackageAssets" (previous value: "
+      GetFrameworkPaths;
+      GetReferenceAssemblyPaths;
+      PrepareForBuild;
+      ResolveSDKReferences;
+      ExpandSDKReferences;
+    ") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\NuGet\15.0\Microsoft.NuGet.targets (173,5)
+Property reassignment: $(PrepareResourcesDependsOn)="ResolveNuGetPackageAssets;
+      ValidationExtension;
+      ExpressionBuildExtension;
+      
+      XamlMarkupCompilePass1;
+      XamlMarkupCompilePass2;
+      
+                MarkupCompilePass1;
+                AfterMarkupCompilePass1;
+                MarkupCompilePass2ForMainAssembly;
+                FileClassification;
+                MainResourcesGeneration;
+                
+      PrepareResourceNames;
+      ResGen;
+      CompileLicxFiles
+    
+       
+    
+    " (previous value: "
+      ValidationExtension;
+      ExpressionBuildExtension;
+      
+      XamlMarkupCompilePass1;
+      XamlMarkupCompilePass2;
+      
+                MarkupCompilePass1;
+                AfterMarkupCompilePass1;
+                MarkupCompilePass2ForMainAssembly;
+                FileClassification;
+                MainResourcesGeneration;
+                
+      PrepareResourceNames;
+      ResGen;
+      CompileLicxFiles
+    
+       
+    
+    ") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\NuGet\15.0\Microsoft.NuGet.targets (174,5)
+Property reassignment: $(_HandlePackageFileConflictsAfter)="ResolveNuGetPackageAssets;ResolveNuGetPackageAssetsNonAOT" (previous value: "ResolveNuGetPackageAssets") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\NuGet\15.0\Microsoft.NuGet.targets (255,5)
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Search paths being used for $(MSBuildExtensionsPath32) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Trying to import C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets using extensions path C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild
+Property reassignment: $(TypeScriptEffectiveToolsVersion)="2.8" (previous value: "2.5") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\TypeScript\Microsoft.TypeScript.targets (49,5)
+Property reassignment: $(CompileDependsOn)="
+      CheckFileSystemCaseSensitive;
+      FindConfigFiles;
+      CompileTypeScript;
+      CompileTypeScriptWithTSConfig;
+      GetTypeScriptOutputForPublishing;
+      
+        
+      ResolveReferences;
+      ResolveKeySource;
+      SetWin32ManifestProperties;
+      FindReferenceAssembliesForReferences;
+      _GenerateCompileInputs;
+      BeforeCompile;
+      _TimeStampBeforeCompile;
+      _GenerateCompileDependencyCache;
+      CoreCompile;
+      _TimeStampAfterCompile;
+      AfterCompile;
+    ;
+        _AfterCompileWinFXInternal
+    ;
+    " (previous value: "
+        
+      ResolveReferences;
+      ResolveKeySource;
+      SetWin32ManifestProperties;
+      FindReferenceAssembliesForReferences;
+      _GenerateCompileInputs;
+      BeforeCompile;
+      _TimeStampBeforeCompile;
+      _GenerateCompileDependencyCache;
+      CoreCompile;
+      _TimeStampAfterCompile;
+      AfterCompile;
+    ;
+        _AfterCompileWinFXInternal
+    ") at C:\Program Files (x86)\Microsoft SDKs\TypeScript\2.8\build\Microsoft.TypeScript.targets (43,5)
+Property reassignment: $(CleanDependsOn)="
+      
+      
+      BeforeClean;
+      UnmanagedUnregistration;
+      CoreClean;
+      CleanReferencedProjects;
+      CleanPublishFolder;
+      AfterClean
+    ;
+      EntityClean;
+    ;
+      CheckFileSystemCaseSensitive;
+      FindConfigFiles;
+      TypeScriptClean;
+      TypeScriptCleanWithTSConfig;
+    " (previous value: "
+      
+      BeforeClean;
+      UnmanagedUnregistration;
+      CoreClean;
+      CleanReferencedProjects;
+      CleanPublishFolder;
+      AfterClean
+    ;
+      EntityClean;
+    ") at C:\Program Files (x86)\Microsoft SDKs\TypeScript\2.8\build\Microsoft.TypeScript.targets (58,5)
+Property reassignment: $(BuiltProjectOutputGroupDependsOn)="
+      CheckFileSystemCaseSensitive;
+      FindConfigFiles;
+      CompileTypeScript;
+      CompileTypeScriptWithTSConfig;
+      GetTypeScriptOutputForPublishing;
+      PrepareForBuild;
+    " (previous value: "PrepareForBuild") at C:\Program Files (x86)\Microsoft SDKs\TypeScript\2.8\build\Microsoft.TypeScript.targets (65,5)
+Property reassignment: $(GetCopyToOutputDirectoryItemsDependsOn)="
+      
+      AssignTargetPaths;
+      _SplitProjectReferencesByFileExistence;
+      _GetProjectReferenceTargetFrameworkProperties
+    ;
+      GetTypeScriptCopyToOutputDirectoryItems;
+    " (previous value: "
+      AssignTargetPaths;
+      _SplitProjectReferencesByFileExistence;
+      _GetProjectReferenceTargetFrameworkProperties
+    ") at C:\Program Files (x86)\Microsoft SDKs\TypeScript\2.8\build\Microsoft.TypeScript.targets (76,5)
+Property reassignment: $(GenerateSourceMaps)="true" (previous value: "false") at C:\Program Files (x86)\Microsoft SDKs\TypeScript\2.8\build\Microsoft.TypeScript.targets (106,5)
+Property reassignment: $(TypeScriptBuildConfigurations)=" --sourcemap --target ES5" (previous value: " --sourcemap") at C:\Program Files (x86)\Microsoft SDKs\TypeScript\2.8\build\Microsoft.TypeScript.targets (120,5)
+Property reassignment: $(TypeScriptBuildConfigurations)=" --sourcemap --target ES5 --noEmitOnError" (previous value: " --sourcemap --target ES5") at C:\Program Files (x86)\Microsoft SDKs\TypeScript\2.8\build\Microsoft.TypeScript.targets (173,5)
+Search paths being used for $(VSToolsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0;$(MSBuildProgramFiles32)\MSBuild\Microsoft\VisualStudio\v$(VisualStudioVersion)
+Trying to import C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\WebApplications\Microsoft.WebApplication.targets using extensions path C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0
+Property reassignment: $(CleanWebProjectOutputDir)="False" (previous value: "True") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\WebApplications\Microsoft.WebApplication.targets (27,5)
+Property reassignment: $(PrepareForRunDependsOn)="
+      
+      CopyFilesToOutputDirectory
+    ;RunCodeAnalysis;
+      CopySilverlightApplications;
+      _CopyBinDeployableAssemblies;
+    " (previous value: "
+      CopyFilesToOutputDirectory
+    ;RunCodeAnalysis") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\WebApplications\Microsoft.WebApplication.targets (37,5)
+Property reassignment: $(PrepareForRunDependsOn)="
+      
+      
+      CopyFilesToOutputDirectory
+    ;RunCodeAnalysis;
+      CopySilverlightApplications;
+      _CopyBinDeployableAssemblies;
+    ;
+      _CopyWebApplication;
+      _BuiltWebOutputGroupOutput
+    " (previous value: "
+      
+      CopyFilesToOutputDirectory
+    ;RunCodeAnalysis;
+      CopySilverlightApplications;
+      _CopyBinDeployableAssemblies;
+    ") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\WebApplications\Microsoft.WebApplication.targets (42,5)
+Property reassignment: $(CleanDependsOn)="
+      
+      
+      
+      BeforeClean;
+      UnmanagedUnregistration;
+      CoreClean;
+      CleanReferencedProjects;
+      CleanPublishFolder;
+      AfterClean
+    ;
+      EntityClean;
+    ;
+      CheckFileSystemCaseSensitive;
+      FindConfigFiles;
+      TypeScriptClean;
+      TypeScriptCleanWithTSConfig;
+    ;
+      CleanWebProjectOutputDir;
+    " (previous value: "
+      
+      
+      BeforeClean;
+      UnmanagedUnregistration;
+      CoreClean;
+      CleanReferencedProjects;
+      CleanPublishFolder;
+      AfterClean
+    ;
+      EntityClean;
+    ;
+      CheckFileSystemCaseSensitive;
+      FindConfigFiles;
+      TypeScriptClean;
+      TypeScriptCleanWithTSConfig;
+    ") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\WebApplications\Microsoft.WebApplication.targets (53,5)
+Property reassignment: $(CleanDependsOn)="
+      
+      
+      
+      
+      BeforeClean;
+      UnmanagedUnregistration;
+      CoreClean;
+      CleanReferencedProjects;
+      CleanPublishFolder;
+      AfterClean
+    ;
+      EntityClean;
+    ;
+      CheckFileSystemCaseSensitive;
+      FindConfigFiles;
+      TypeScriptClean;
+      TypeScriptCleanWithTSConfig;
+    ;
+      CleanWebProjectOutputDir;
+    ;
+      
+      ;
+      CleanWebsitesPackage;
+      CleanWebsitesWPPAllFilesInSingleFolder;
+      CleanWebPublishPipelineIntermediateOutput;
+    ;
+    " (previous value: "
+      
+      
+      
+      BeforeClean;
+      UnmanagedUnregistration;
+      CoreClean;
+      CleanReferencedProjects;
+      CleanPublishFolder;
+      AfterClean
+    ;
+      EntityClean;
+    ;
+      CheckFileSystemCaseSensitive;
+      FindConfigFiles;
+      TypeScriptClean;
+      TypeScriptCleanWithTSConfig;
+    ;
+      CleanWebProjectOutputDir;
+    ") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\Web\Microsoft.Web.Publishing.targets (214,5)
+Property reassignment: $(CleanWebProjectOutputDir)="True" (previous value: "False") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\Web\Microsoft.Web.Publishing.targets (403,5)
+Property reassignment: $(CleanWebProjectOutputDir)="False" (previous value: "True") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\Web\Microsoft.Web.Publishing.targets (404,5)
+Property reassignment: $(_UseDefaultLinkExtensionValue)="True" (previous value: "False") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\Web\Microsoft.Web.Publishing.targets (452,5)
+Property reassignment: $(_DestinationIisAppPhysicalPath)="C:\Users\Rahul\Documents\GitHub\mvcproject_deploy" (previous value: "") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\Web\Microsoft.Web.Publishing.targets (513,5)
+Property reassignment: $(PublishPipelineCollectFilesCore)="
+      
+      ;
+      FindConfigFiles;
+      CompileTypeScript;
+      CompileTypeScriptWithTSConfig;
+      GetTypeScriptOutputForPublishing;
+    ;
+      CollectFilesFromIntermediateAssembly;
+      CollectFilesFromContent;
+      CollectFilesFromAddModules;
+      CollectFilesFrom_SGenDllCreated;
+      CollectFilesFromIntermediateSatelliteAssembliesWithTargetPath;
+      CollectFilesFromReference;
+      CollectFilesFromAllExtraReferenceFiles;
+      CollectFilesFrom_SourceItemsToCopyToOutputDirectory;
+      CollectFilesFromDocFileItem;
+      CollectFilesFrom_WebApplicationSilverlightXapFiles;
+      CollectFilesFrom_binDeployableAssemblies;
+    " (previous value: "
+      ;
+      FindConfigFiles;
+      CompileTypeScript;
+      CompileTypeScriptWithTSConfig;
+      GetTypeScriptOutputForPublishing;
+    ") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\Web\CollectFiles\Microsoft.Web.Publishing.OnlyFilesToRunTheApp.targets (26,5)
+Property reassignment: $(WriteItemsToSourceManifestDependsOn)="
+      ;
+      
+      ;
+      AddDatabasesToSourceManifest;
+    ;
+      AddIisSettingAndFileContentsToSourceManifest;
+    " (previous value: "
+      ;
+      AddDatabasesToSourceManifest;
+    ") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\Web\Microsoft.Web.Publishing.targets (3499,5)
+Property reassignment: $(DbDacFxPreviewDependsOn)="
+      
+      ;
+      GetMSDeployInstalledVersionPath;
+    ;
+      RemoteDbDacFxPreview;
+    " (previous value: "
+      ;
+      GetMSDeployInstalledVersionPath;
+    ") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\Web\Microsoft.Web.Publishing.targets (4470,5)
+Property reassignment: $(PipelineTransformPhaseDependsOn)="
+      ;
+      ;
+      PipeLineCollectFilesPhase;
+      TransformWebConfig;
+      ProfileTransformWebConfig;
+      InsertAdditionalWebCofigConnectionStrings;
+      MarkWebConfigAssistFilesAsExclude;
+    ;_TransformWebConfigForAzureAuthentication" (previous value: "
+      ;
+      ;
+      PipeLineCollectFilesPhase;
+      TransformWebConfig;
+      ProfileTransformWebConfig;
+      InsertAdditionalWebCofigConnectionStrings;
+      MarkWebConfigAssistFilesAsExclude;
+    ") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\Web\Microsoft.Web.Publishing\ImportAfter\Microsoft.Web.AzureAD.Publishing.targets (17,5)
+Property reassignment: $(OnBeforePipelineCollectFilesPhase)="
+      
+      ;
+      _CleanWPPIfNeedTo;
+    ;
+      CopySilverlightApplications;
+    " (previous value: "
+      ;
+      _CleanWPPIfNeedTo;
+    ") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\WebApplications\Microsoft.WebApplication.targets (385,5)
+Property reassignment: $(AutoUnifyAssemblyReferences)="false" (previous value: "true") at C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\WebApplications\Microsoft.WebApplication.targets (393,5)
+Search paths being used for $(MSBuildExtensionsPath32) are C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+Overriding target "GetFrameworkPaths" in project "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets" with target "GetFrameworkPaths" from project "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.NETFramework.CurrentVersion.targets".
+Overriding target "SatelliteDllsProjectOutputGroup" in project "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Microsoft.Common.CurrentVersion.targets" with target "SatelliteDllsProjectOutputGroup" from project "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets".
+Overriding target "CollectPackageReferences" in project "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\Managed\Microsoft.Managed.DesignTime.targets" with target "CollectPackageReferences" from project "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets".
+The target "ClCompile" listed in an AfterTargets attribute at "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (422,11)" does not exist in the project, and will be ignored.
+Project "C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj" on node 1 (go target(s)).
+Building with tools version "15.0".
+Target "ValidateMSBuildToolsVersion" skipped, due to false condition; ('$(BuildingProject)' == 'true') was evaluated as ('false' == 'true').
+C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj : error MSB4057: The target "go" does not exist in the project.
+Done Building Project "C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj" (go target(s)) -- FAILED.
+
+
+Build FAILED.
+
+"C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj" (go target) (1) ->
+  C:\Users\Rahul\Documents\GitHub\mvcproject\SampleMVC.csproj : error MSB4057: The target "go" does not exist in the project.
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.75

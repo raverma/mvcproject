@@ -10,8 +10,12 @@ namespace SampleMVC.App_Start
     {
         public MappingProfile()
         {
-            Mapper.CreateMap<Customer, CustomerDTO>();
-            Mapper.CreateMap<CustomerDTO, Customer>();
+            var config = new MapperConfiguration(cfg => {
+                cfg.CreateMap<Customer, CustomerDTO>();
+                cfg.CreateMap<CustomerDTO, Customer>();
+            });
+            //Mapper.CreateMap<Customer, CustomerDTO>();
+            //Mapper.CreateMap<CustomerDTO, Customer>();
 
         }
     }

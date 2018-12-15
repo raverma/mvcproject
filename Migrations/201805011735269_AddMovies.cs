@@ -8,29 +8,6 @@ namespace SampleMVC.Migrations
         public override void Up()
         {
             CreateTable(
-                "dbo.Customers",
-                c => new
-                    {
-                        Id = c.Int(nullable: false, identity: true),
-                        Name = c.String(nullable: false, maxLength: 255),
-                        CustomerTypeId = c.Int(nullable: false),
-                        Abbreviation = c.String(),
-                        IsActive = c.Boolean(nullable: false),
-                    })
-                .PrimaryKey(t => t.Id)
-                .ForeignKey("dbo.CustomerTypes", t => t.CustomerTypeId, cascadeDelete: true)
-                .Index(t => t.CustomerTypeId);
-            
-            CreateTable(
-                "dbo.CustomerTypes",
-                c => new
-                    {
-                        Id = c.Int(nullable: false, identity: true),
-                        Type = c.String(),
-                    })
-                .PrimaryKey(t => t.Id);
-            
-            CreateTable(
                 "dbo.Movies",
                 c => new
                     {
